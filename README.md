@@ -13,6 +13,6 @@
 
 <h3>Professor:</h3> 
 <ul>
-  <li><a href=[https://www.linkedin.com/in/rodrigo-carareto-b1ab85b6/](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/marcelo-hashimoto/)>Marcelo Hashimoto</a></li>
-  <li><a href=[https://www.linkedin.com/in/rodrigo-carareto-b1ab85b6/](https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/charles-kirschbaum/)https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/charles-kirschbaum/>Charles Kirschbaum</a></li>
+  <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/marcelo-hashimoto/>Marcelo Hashimoto</a></li>
+  <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/charles-kirschbaum/>Charles Kirschbaum</a></li>
 </ul>
