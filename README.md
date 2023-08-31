@@ -11,7 +11,7 @@
   <li><a href=https://www.linkedin.com/in/marcosvinis/>Marcos Vinícius da Silva</a></li>
 </ul>
 
-<h3>Professor:</h3> 
+<h3>Professores:</h3> 
 <ul>
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/marcelo-hashimoto/>Marcelo Hashimoto</a></li>
   <li><a href=https://www.insper.edu.br/pesquisa-e-conhecimento/docentes-pesquisadores/charles-kirschbaum/>Charles Kirschbaum</a></li>
